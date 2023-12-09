@@ -65,6 +65,6 @@ Contributing
 - History, Timestamp, total click on website.
 # IMAGES: POST / GET POSTMAN
 ## GET:
-- 
+- ![Alt Tex](https://raw.githubusercontent.com/Meesujit/url-shortner/blob/main/assets/Image_Analytics.png)
 
 
