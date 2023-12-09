@@ -63,4 +63,18 @@ Contributing
 # TODO:
 - UI/UX Implementation is Pending.
 - History, Timestamp, total click on website.
-  [](https://i.ibb.co/cbjNwL7/Image-Analytics.png)
+
+# POSTMAN Report:
+
+### POST Req: 
+Analytics Report (Error)
+![Analytics Image](https://i.ibb.co/cbjNwL7/Image-Analytics.png)
+
+### GET Req:
+- GET/:ID
+![Analytics Image](https://i.ibb.co/1b54Jcc/Image-id.png)
+
+### POST Req:
+- POST/:ID
+- Displaying the website.
+![Analytics Image](https://i.ibb.co/BPj78W7/Image-id-website.png)
