@@ -63,3 +63,4 @@ Contributing
 # TODO:
 - UI/UX Implementation is Pending.
 - History, Timestamp, total click on website.
+  [](https://i.ibb.co/cbjNwL7/Image-Analytics.png)
