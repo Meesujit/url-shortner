@@ -60,8 +60,8 @@ Contributing
 - This project is licensed under the MIT License.
 
 - Feel free to customize this template further based on your project's specific details and requirements.
-# TODO:
-- UI/UX Implementation is Pending.
+# TODO: Completed 
+- UI/UX Implementation Using EJS ( Embedded Javscript )
 - History, Timestamp, total click on website.
 
 # POSTMAN Report:
