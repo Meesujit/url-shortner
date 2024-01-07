@@ -60,10 +60,14 @@ Contributing
 - This project is licensed under the MIT License.
 
 - Feel free to customize this template further based on your project's specific details and requirements.
-# TODO: Completed 
+# UI/UX
 - UI/UX Implementation Using EJS ( Embedded Javscript )
+- Client side redenring.
 - History, Timestamp, total click on website.
-
+# Authentication
+- stateless / statefull.
+- Cookies.
+- uuid package. ( cookie id )
 # POSTMAN Report:
 
 ### POST Req: 
